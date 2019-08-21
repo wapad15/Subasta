@@ -1,0 +1,2 @@
+1;huawei;p9;alta;100000
+2;huawei;p20;alta;50000
